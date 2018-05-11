@@ -5,3 +5,6 @@ echo "<script>alert('data telah logout')</script>";
 echo '<meta http-equiv="refresh" content=1;url="./">';
 
 ?>
+
+
+//soaalllll
